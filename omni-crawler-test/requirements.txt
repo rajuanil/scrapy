@@ -14,7 +14,7 @@ six==1.10.0
 w3lib==1.15.0
 wsgiref==0.1.2
 zope.interface==4.2.0
-Django==1.6.11
+Django==1.11.29
 pycrypto==2.6.1
 pycups==1.9.66
 PyDispatcher==2.0.5
