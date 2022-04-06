@@ -1,6 +1,6 @@
 PyDispatcher==2.0.5
 Scrapy==1.1.1
-Twisted==16.3.0
+Twisted==22.2.0
 attrs==16.0.0
 cffi==1.7.0
 cryptography==1.4
