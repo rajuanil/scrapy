@@ -1,7 +1,7 @@
 scrapy==1.1.1
 Twisted==16.3.0
 attrs==16.0.0
-cryptography==1.4
+cryptography==3.3.2
 lxml==3.6.1
 parsel==1.0.3
 pyOpenSSL==16.0.0
