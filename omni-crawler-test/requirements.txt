@@ -1,4 +1,4 @@
-scrapy==1.1.1
+scrapy==2.6.2
 Twisted==16.3.0
 attrs==16.0.0
 cryptography==1.4

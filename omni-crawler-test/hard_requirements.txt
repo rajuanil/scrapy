@@ -1,5 +1,5 @@
 PyDispatcher==2.0.5
-Scrapy==1.1.1
+Scrapy==2.6.2
 Twisted==16.3.0
 attrs==16.0.0
 cffi==1.7.0
